@@ -1,0 +1,5 @@
+E:\Projetcs\Avacara\StrndD\StrandD_Core\stranddAdminWebClient\bin\stranddAdminWebClient.dll.config
+E:\Projetcs\Avacara\StrndD\StrandD_Core\stranddAdminWebClient\bin\stranddAdminWebClient.dll
+E:\Projetcs\Avacara\StrndD\StrandD_Core\stranddAdminWebClient\bin\stranddAdminWebClient.pdb
+E:\Projetcs\Avacara\StrndD\StrandD_Core\stranddAdminWebClient\obj\Debug\stranddAdminWebClient.dll
+E:\Projetcs\Avacara\StrndD\StrandD_Core\stranddAdminWebClient\obj\Debug\stranddAdminWebClient.pdb
